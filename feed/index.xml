@@ -8,32 +8,33 @@
 	>
 
 <channel>
-	<title>NHẬT STORE</title>
-	<atom:link href="http://localhost/myproject/wordpress/minhnhat2/feed/" rel="self" type="application/rss+xml" />
+	<title>web1</title>
+	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://minhnhat1543.github.io/minhnhat_demo</link>
-	<description>Một trang web mới của KHOA HỌC VŨ TRỤ Trang</description>
-	<lastBuildDate>Mon, 16 May 2022 08:06:38 +0000</lastBuildDate>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Mon, 30 May 2022 08:58:34 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://minhnhat1543.github.io/minhnhat_demo/2022/05/16/chao-moi-nguoi/</link>
-					<comments>https://minhnhat1543.github.io/minhnhat_demo/2022/05/16/chao-moi-nguoi/#comments</comments>
+		<link>https://minhnhat1543.github.io/minhnhat_demo/2022/05/30/chao-moi-nguoi/</link>
+					<comments>https://minhnhat1543.github.io/minhnhat_demo/2022/05/30/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[minhnhat]]></dc:creator>
-		<pubDate>Mon, 16 May 2022 08:06:38 +0000</pubDate>
+		<pubDate>Mon, 30 May 2022 08:58:34 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://localhost7000/myproject/wordpress/minhnhat2/?p=1</guid>
+		<guid isPermaLink="false">https://minhnhat1543.github.io/minhnhat_demo/?p=1</guid>
 
-					<description><![CDATA[Chào mừng bạn đến với KHOA HỌC VŨ TRỤ Trang. Đây là bài viết đầu tiên của bạn. Bạn có thể sửa hoặc xoá nó, sau đó bắt đầu viết bài nào!]]></description>
-										<content:encoded><![CDATA[<p>Chào mừng bạn đến với <a href="http://localhost:7000/myproject/wordpress/">KHOA HỌC VŨ TRỤ Trang</a>. Đây là bài viết đầu tiên của bạn. Bạn có thể sửa hoặc xoá nó, sau đó bắt đầu viết bài nào!</p>
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://minhnhat1543.github.io/minhnhat_demo/2022/05/16/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhat1543.github.io/minhnhat_demo/2022/05/30/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
