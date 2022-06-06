@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho 	</title>
-	<atom:link href="http://localhost/myproject/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://github.com/minhnhat1543/minhnhat_demo</link>
+	Các phản hồi luận về: Chào tất cả mọi người!	</title>
+	<atom:link href="http://localhost/myproject/2022/06/04/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://github.com/minhnhat1543/minhnhat_demo/2022/06/04/chao-moi-nguoi/</link>
 	<description></description>
 	<lastBuildDate>Sat, 04 Jun 2022 06:05:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi A WordPress Commenter		</title>
+		Bởi: A WordPress Commenter		</title>
 		<link>http://https://github.com/minhnhat1543/minhnhat_demo/2022/06/04/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
