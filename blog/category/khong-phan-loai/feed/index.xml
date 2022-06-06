@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Chưa phân loại</title>
+	<title>Chưa phân loại &#8211; minhnhat</title>
 	<atom:link href="http://localhost/myproject/blog/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://minhnhat1543.github.io/minhnhat_demo</link>
 	<description></description>
