@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>minhnhat</title>
+	<title></title>
 	<atom:link href="http://localhost/myproject/feed/" rel="self" type="application/rss+xml" />
 	<link>https://minhnhat1543.github.io/minhnhat_demo</link>
 	<description></description>
