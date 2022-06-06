@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Chưa phân loại</title>
-	<atom:link href="http://localhost/myproject/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://github.com/minhnhat1543/minhnhat_demo</link>
+	<title>minhnhat</title>
+	<atom:link href="http://localhost/myproject/blog/author/minhnhat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhnhat1543.github.io/minhnhat_demo</link>
 	<description></description>
 	<lastBuildDate>Sat, 04 Jun 2022 06:05:00 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://https://github.com/minhnhat1543/minhnhat_demo/2022/06/04/chao-moi-nguoi/</link>
-					<comments>https://https://github.com/minhnhat1543/minhnhat_demo/2022/06/04/chao-moi-nguoi/#comments</comments>
+		<link>https://minhnhat1543.github.io/minhnhat_demo/blog/2022/06/04/chao-moi-nguoi/</link>
+					<comments>https://minhnhat1543.github.io/minhnhat_demo/blog/2022/06/04/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[minhnhat]]></dc:creator>
 		<pubDate>Sat, 04 Jun 2022 06:05:00 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://https://github.com/minhnhat1543/minhnhat_demo/?p=1</guid>
+		<guid isPermaLink="false">https://minhnhat1543.github.io/minhnhat_demo/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://github.com/minhnhat1543/minhnhat_demo/2022/06/04/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhat1543.github.io/minhnhat_demo/blog/2022/06/04/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
