@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sản phẩm</title>
+	<atom:link href="http://localhost/myproject/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhnhat1543.github.io/minhnhat_demo</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Jun 2022 15:34:53 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Áo Thun Polo</title>
+		<link>https://minhnhat1543.github.io/minhnhat_demo/san-pham/ao-thun-polo/</link>
+					<comments>https://minhnhat1543.github.io/minhnhat_demo/san-pham/ao-thun-polo/#respond</comments>
+		
+		<dc:creator><![CDATA[minhnhat]]></dc:creator>
+		<pubDate>Mon, 20 Jun 2022 15:11:32 +0000</pubDate>
+				<guid isPermaLink="false">https://minhnhat1543.github.io/minhnhat_demo/?post_type=product&#038;p=232</guid>
+
+					<description><![CDATA[Áo thun Polo cổ bẻ đơn giản và dễ mặc trong mọi dịp, chất cotton có lỗ thoáng khí, co giãn và thấm hút tốt. Bo cổ cotton được dệt riêng. Form dáng slimfit, cổ áo đứng form chuẩn dáng. Chất liệu: 98% cotton, 2% Spandex Hướng dẫn bảo quản: &#8211; Không dùng hóa chất tẩy. &#8211; Ủi ở [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Áo thun Polo cổ bẻ đơn giản và dễ mặc trong mọi dịp, chất cotton có lỗ thoáng khí, co giãn và thấm hút tốt. Bo cổ cotton được dệt riêng. Form dáng slimfit, cổ áo đứng form chuẩn dáng.</p>
+<p>Chất liệu: 98% cotton, 2% Spandex</p>
+<p>Hướng dẫn bảo quản:</p>
+<p>&#8211; Không dùng hóa chất tẩy.</p>
+<p>&#8211; Ủi ở nhiệt độ thích hợp, hạn chế dùng máy sấy.</p>
+<p>&#8211; Giặt ở chế độ bình thường, với đồ có màu tương tự.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://minhnhat1543.github.io/minhnhat_demo/san-pham/ao-thun-polo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
