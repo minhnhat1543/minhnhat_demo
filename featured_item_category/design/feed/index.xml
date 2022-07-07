@@ -46,7 +46,7 @@
 				<guid isPermaLink="false">http://flatsome.dev/?post_type=featured_item&#038;p=8917</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.]]></description>
-										<content:encoded><![CDATA[<div class="slider-wrapper relative" id="slider-1120902172" style="margin-bottom:13px;">
+										<content:encoded><![CDATA[<div class="slider-wrapper relative" id="slider-793358395" style="margin-bottom:13px;">
     <div class="slider slider-nav-circle slider-nav-large slider-nav-light slider-style-normal"
         data-flickity-options='{
             "cellAlign": "center",
@@ -69,37 +69,37 @@
             "friction": 0.6        }'
         >
         
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1100302133">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_922414199">
 								<div class="img-inner dark" >
 			<img width="400" height="260" src="https://minhnhat1543.github.io/minhnhat_demo/wp-content/uploads/sites/2/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
 					</div>
 								
 <style>
-#image_1100302133 {
+#image_922414199 {
   width: 100%;
 }
 </style>
 	</div>
 	
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_2091651535">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_615496731">
 								<div class="img-inner dark" >
 			<img width="400" height="260" src="https://minhnhat1543.github.io/minhnhat_demo/wp-content/uploads/sites/2/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
 					</div>
 								
 <style>
-#image_2091651535 {
+#image_615496731 {
   width: 100%;
 }
 </style>
 	</div>
 	
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_719813968">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1467423473">
 								<div class="img-inner dark" >
 			<img width="400" height="260" src="https://minhnhat1543.github.io/minhnhat_demo/wp-content/uploads/sites/2/2016/08/dummy-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />						
 					</div>
 								
 <style>
-#image_719813968 {
+#image_1467423473 {
   width: 100%;
 }
 </style>
